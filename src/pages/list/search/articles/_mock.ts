@@ -31,7 +31,7 @@ const covers = [
 const desc = [
   'That is an inner thing they cannot reach or touch',
   'Hope is a good thing, maybe the best, and good things never die',
-  'Life is like a box of chocolates, you never know what you're gonna get',
+  'Life is like a box of chocolates, you never know what you\'re gonna get',
   'There are so many pubs in town, but she just walked into mine',
   'At that time, I only knew what I wanted, and never thought about what I had',
 ];
