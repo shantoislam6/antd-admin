@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Beijing",
+    "id": "110000"
+  },
+  {
+    "name": "Tianjin",
+    "id": "120000"
+  },
+  {
+    "name": "Hebei Province",
+    "id": "130000"
+  },
+  {
+    "name": "Shanxi Province",
+    "id": "140000"
+  },
+  {
+    "name": "Inner Mongolia Autonomous Region",
+    "id": "150000"
+  },
+  {
+    "name": "Liaoning Province",
+    "id": "210000"
+  },
+  {
+    "name": "Jilin Province",
+    "id": "220000"
+  },
+  {
+    "name": "Heilongjiang Province",
+    "id": "230000"
+  },
+  {
+    "name": "Shanghai",
+    "id": "310000"
+  },
+  {
+    "name": "Jiangsu Province",
+    "id": "320000"
+  },
+  {
+    "name": "Zhejiang Province",
+    "id": "330000"
+  },
+  {
+    "name": "Anhui Province",
+    "id": "340000"
+  },
+  {
+    "name": "Fujian Province",
+    "id": "350000"
+  },
+  {
+    "name": "Jiangxi Province",
+    "id": "360000"
+  },
+  {
+    "name": "Shandong Province",
+    "id": "370000"
+  },
+  {
+    "name": "Henan Province",
+    "id": "410000"
+  },
+  {
+    "name": "Hubei Province",
+    "id": "420000"
+  },
+  {
+    "name": "Hunan Province",
+    "id": "430000"
+  },
+  {
+    "name": "Guangdong Province",
+    "id": "440000"
+  },
+  {
+    "name": "Guangxi Zhuang Autonomous Region",
+    "id": "450000"
+  },
+  {
+    "name": "Hainan Province",
+    "id": "460000"
+  },
+  {
+    "name": "Chongqing",
+    "id": "500000"
+  },
+  {
+    "name": "Sichuan Province",
+    "id": "510000"
+  },
+  {
+    "name": "Guizhou Province",
+    "id": "520000"
+  },
+  {
+    "name": "Yunnan Province",
+    "id": "530000"
+  },
+  {
+    "name": "Tibet Autonomous Region",
+    "id": "540000"
+  },
+  {
+    "name": "Shaanxi Province",
+    "id": "610000"
+  },
+  {
+    "name": "Gansu Province",
+    "id": "620000"
+  },
+  {
+    "name": "Qinghai Province",
+    "id": "630000"
+  },
+  {
+    "name": "Ningxia Hui Autonomous Region",
+    "id": "640000"
+  },
+  {
+    "name": "Xinjiang Uygur Autonomous Region",
+    "id": "650000"
+  },
+  {
+    "name": "Taiwan Province",
+    "id": "710000"
+  },
+  {
+    "name": "Hong Kong Special Administrative Region",
+    "id": "810000"
+  },
+  {
+    "name": "Macao Special Administrative Region",
+    "id": "820000"
+  }
+]

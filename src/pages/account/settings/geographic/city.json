@@ -1,0 +1,1788 @@
+{
+  "110000": [
+    {
+      "province": "Beijing",
+      "name": "Urban Area",
+      "id": "110100"
+    }
+  ],
+  "120000": [
+    {
+      "province": "Tianjin",
+      "name": "Urban Area",
+      "id": "120100"
+    }
+  ],
+  "130000": [
+    {
+      "province": "Hebei",
+      "name": "Shijiazhuang",
+      "id": "130100"
+    },
+    {
+      "province": "Hebei",
+      "name": "Tangshan",
+      "id": "130200"
+    },
+    {
+      "province": "Hebei",
+      "name": "Qinhuangdao",
+      "id": "130300"
+    },
+    {
+      "province": "Hebei",
+      "name": "Handan",
+      "id": "130400"
+    },
+    {
+      "province": "Hebei",
+      "name": "Xingtai",
+      "id": "130500"
+    },
+    {
+      "province": "Hebei",
+      "name": "Baoding",
+      "id": "130600"
+    },
+    {
+      "province": "Hebei",
+      "name": "Zhangjiakou",
+      "id": "130700"
+    },
+    {
+      "province": "Hebei",
+      "name": "Chengde",
+      "id": "130800"
+    },
+    {
+      "province": "Hebei",
+      "name": "Cangzhou",
+      "id": "130900"
+    },
+    {
+      "province": "Hebei",
+      "name": "Langfang",
+      "id": "131000"
+    },
+    {
+      "province": "Hebei",
+      "name": "Hengshui",
+      "id": "131100"
+    },
+    {
+      "province": "Hebei",
+      "name": "Directly Governed Counties",
+      "id": "139000"
+    }
+  ],
+  "140000": [
+    {
+      "province": "Shanxi Province",
+      "name": "Taiyuan City",
+      "id": "140100"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Datong City",
+      "id": "140200"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Yangquan City",
+      "id": "140300"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Changzhi City",
+      "id": "140400"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Jincheng City",
+      "id": "140500"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Shuozhou City",
+      "id": "140600"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Jinzhong City",
+      "id": "140700"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Yuncheng City",
+      "id": "140800"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Xinzhou City",
+      "id": "140900"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Linfen City",
+      "id": "141000"
+    },
+    {
+      "province": "Shanxi Province",
+      "name": "Lvliang City",
+      "id": "141100"
+    }
+  ],
+  "150000": [
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Hohhot City",
+      "id": "150100"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Baotou City",
+      "id": "150200"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Wuhai City",
+      "id": "150300"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Chifeng City",
+      "id": "150400"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Tongliao City",
+      "id": "150500"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Ordos City",
+      "id": "150600"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Hulun Buir City",
+      "id": "150700"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Bayan Nur City",
+      "id": "150800"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Ulanqab City",
+      "id": "150900"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Hinggan League",
+      "id": "152200"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Xilin Gol League",
+      "id": "152500"
+    },
+    {
+      "province": "Inner Mongolia Autonomous Region",
+      "name": "Alxa League",
+      "id": "152900"
+    }
+  ],
+  "210000": [
+    {
+      "province": "Liaoning Province",
+      "name": "Shenyang City",
+      "id": "210100"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Dalian City",
+      "id": "210200"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Anshan City",
+      "id": "210300"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Fushun City",
+      "id": "210400"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Benxi City",
+      "id": "210500"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Dandong City",
+      "id": "210600"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Jinzhou City",
+      "id": "210700"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Yingkou City",
+      "id": "210800"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Fuxin City",
+      "id": "210900"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Liaoyang City",
+      "id": "211000"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Panjin City",
+      "id": "211100"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Tieling City",
+      "id": "211200"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Chaoyang City",
+      "id": "211300"
+    },
+    {
+      "province": "Liaoning Province",
+      "name": "Huludao City",
+      "id": "211400"
+    }
+  ],
+  "220000": [
+    {
+      "province": "Jilin Province",
+      "name": "Changchun City",
+      "id": "220100"
+    },
+    {
+      "province": "Jilin Province",
+      "name": "Jilin City",
+      "id": "220200"
+    },
+    {
+      "province": "Jilin Province",
+      "name": "Siping City",
+      "id": "220300"
+    },
+    {
+      "province": "Jilin Province",
+      "name": "Liaoyuan City",
+      "id": "220400"
+    },
+    {
+      "province": "Jilin Province",
+      "name": "Tonghua City",
+      "id": "220500"
+    },
+    {
+      "province": "Jilin Province",
+      "name": "Baishan City",
+      "id": "220600"
+    },
+    {
+      "province": "Jilin Province",
+      "name": "Songyuan City",
+      "id": "220700"
+    },
+    {
+      "province": "Jilin Province",
+      "name": "Baicheng City",
+      "id": "220800"
+    },
+    {
+      "province": "Jilin Province",
+      "name": "Yanbian Korean Autonomous Prefecture",
+      "id": "222400"
+    }
+  ],
+  "230000": [
+    {
+      "province": "Heilongjiang Province",
+      "name": "Harbin City",
+      "id": "230100"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Qiqihar City",
+      "id": "230200"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Jixi City",
+      "id": "230300"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Hegang City",
+      "id": "230400"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Shuangyashan City",
+      "id": "230500"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Daqing City",
+      "id": "230600"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Yichun City",
+      "id": "230700"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Jiamusi City",
+      "id": "230800"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Qitaihe City",
+      "id": "230900"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Mudanjiang City",
+      "id": "231000"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Heihe City",
+      "id": "231100"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Suihua City",
+      "id": "231200"
+    },
+    {
+      "province": "Heilongjiang Province",
+      "name": "Da Hinggan Ling Prefecture",
+      "id": "232700"
+    }
+  ],
+  "310000": [
+    {
+      "province": "Shanghai City",
+      "name": "City Proper",
+      "id": "310100"
+    }
+  ],
+  "320000": [
+    {
+      "province": "Jiangsu Province",
+      "name": "Nanjing City",
+      "id": "320100"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Wuxi City",
+      "id": "320200"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Xuzhou City",
+      "id": "320300"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Changzhou City",
+      "id": "320400"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Suzhou City",
+      "id": "320500"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Nantong City",
+      "id": "320600"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Lianyungang City",
+      "id": "320700"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Huai'an City",
+      "id": "320800"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Yancheng City",
+      "id": "320900"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Yangzhou City",
+      "id": "321000"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Zhenjiang City",
+      "id": "321100"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Taizhou City",
+      "id": "321200"
+    },
+    {
+      "province": "Jiangsu Province",
+      "name": "Suqian City",
+      "id": "321300"
+    }
+  ],
+  "330000": [
+    {
+      "province": "Zhejiang Province",
+      "name": "Hangzhou City",
+      "id": "330100"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Ningbo City",
+      "id": "330200"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Wenzhou City",
+      "id": "330300"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Jiaxing City",
+      "id": "330400"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Huzhou City",
+      "id": "330500"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Shaoxing City",
+      "id": "330600"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Jinhua City",
+      "id": "330700"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Quzhou City",
+      "id": "330800"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Zhoushan City",
+      "id": "330900"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Taizhou City",
+      "id": "331000"
+    },
+    {
+      "province": "Zhejiang Province",
+      "name": "Lishui City",
+      "id": "331100"
+    }
+  ],
+  "340000": [
+    {
+      "province": "Anhui Province",
+      "name": "Hefei City",
+      "id": "340100"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Wuhu City",
+      "id": "340200"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Bengbu City",
+      "id": "340300"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Huainan City",
+      "id": "340400"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Ma'anshan City",
+      "id": "340500"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Huaibei City",
+      "id": "340600"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Tongling City",
+      "id": "340700"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Anqing City",
+      "id": "340800"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Huangshan City",
+      "id": "341000"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Chuzhou City",
+      "id": "341100"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Fuyang City",
+      "id": "341200"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Suzhou City",
+      "id": "341300"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Lu'an City",
+      "id": "341500"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Bozhou City",
+      "id": "341600"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Chizhou City",
+      "id": "341700"
+    },
+    {
+      "province": "Anhui Province",
+      "name": "Xuancheng City",
+      "id": "341800"
+    }
+  ],
+
+  "350000": [
+    {
+      "province": "Fujian Province",
+      "name": "Fuzhou City",
+      "id": "350100"
+    },
+    {
+      "province": "Fujian Province",
+      "name": "Xiamen City",
+      "id": "350200"
+    },
+    {
+      "province": "Fujian Province",
+      "name": "Putian City",
+      "id": "350300"
+    },
+    {
+      "province": "Fujian Province",
+      "name": "Sanming City",
+      "id": "350400"
+    },
+    {
+      "province": "Fujian Province",
+      "name": "Quanzhou City",
+      "id": "350500"
+    },
+    {
+      "province": "Fujian Province",
+      "name": "Zhangzhou City",
+      "id": "350600"
+    },
+    {
+      "province": "Fujian Province",
+      "name": "Nanping City",
+      "id": "350700"
+    },
+    {
+      "province": "Fujian Province",
+      "name": "Longyan City",
+      "id": "350800"
+    },
+    {
+      "province": "Fujian Province",
+      "name": "Ningde City",
+      "id": "350900"
+    }
+  ],
+  "360000": [
+    {
+      "province": "Jiangxi Province",
+      "name": "Nanchang City",
+      "id": "360100"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Jingdezhen City",
+      "id": "360200"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Pingxiang City",
+      "id": "360300"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Jiujiang City",
+      "id": "360400"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Xinyu City",
+      "id": "360500"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Yingtan City",
+      "id": "360600"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Ganzhou City",
+      "id": "360700"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Ji'an City",
+      "id": "360800"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Yichun City",
+      "id": "360900"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Fuzhou City",
+      "id": "361000"
+    },
+    {
+      "province": "Jiangxi Province",
+      "name": "Shangrao City",
+      "id": "361100"
+    }
+  ],
+  "370000": [
+    {
+      "province": "Shandong Province",
+      "name": "Jinan City",
+      "id": "370100"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Qingdao City",
+      "id": "370200"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Zibo City",
+      "id": "370300"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Zaozhuang City",
+      "id": "370400"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Dongying City",
+      "id": "370500"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Yantai City",
+      "id": "370600"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Weifang City",
+      "id": "370700"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Jining City",
+      "id": "370800"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Taian City",
+      "id": "370900"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Weihai City",
+      "id": "371000"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Rizhao City",
+      "id": "371100"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Laiwu City",
+      "id": "371200"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Linyi City",
+      "id": "371300"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Dezhou City",
+      "id": "371400"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Liaocheng City",
+      "id": "371500"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Binzhou City",
+      "id": "371600"
+    },
+    {
+      "province": "Shandong Province",
+      "name": "Heze City",
+      "id": "371700"
+    }
+  ],
+
+  "410000": [
+    {
+      "province": "Henan Province",
+      "name": "Zhengzhou City",
+      "id": "410100"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Kaifeng City",
+      "id": "410200"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Luoyang City",
+      "id": "410300"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Pingdingshan City",
+      "id": "410400"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Anyang City",
+      "id": "410500"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Hebi City",
+      "id": "410600"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Xinxiang City",
+      "id": "410700"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Jiaozuo City",
+      "id": "410800"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Puyang City",
+      "id": "410900"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Xuchang City",
+      "id": "411000"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Luohe City",
+      "id": "411100"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Sanmenxia City",
+      "id": "411200"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Nanyang City",
+      "id": "411300"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Shangqiu City",
+      "id": "411400"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Xinyang City",
+      "id": "411500"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Zhoukou City",
+      "id": "411600"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Zhumadian City",
+      "id": "411700"
+    },
+    {
+      "province": "Henan Province",
+      "name": "Province-administered Districts",
+      "id": "419000"
+    }
+  ],
+  "420000": [
+    {
+      "province": "Hubei Province",
+      "name": "Wuhan City",
+      "id": "420100"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Huangshi City",
+      "id": "420200"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Shiyan City",
+      "id": "420300"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Yichang City",
+      "id": "420500"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Xiangyang City",
+      "id": "420600"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Ezhou City",
+      "id": "420700"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Jingmen City",
+      "id": "420800"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Xiaogan City",
+      "id": "420900"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Jingzhou City",
+      "id": "421000"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Huanggang City",
+      "id": "421100"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Xianning City",
+      "id": "421200"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Suizhou City",
+      "id": "421300"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Enshi Tujia and Miao Autonomous Prefecture",
+      "id": "422800"
+    },
+    {
+      "province": "Hubei Province",
+      "name": "Province-administered Districts",
+      "id": "429000"
+    }
+  ],
+  "430000": [
+    {
+      "province": "Hunan Province",
+      "name": "Changsha City",
+      "id": "430100"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Zhuzhou City",
+      "id": "430200"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Xiangtan City",
+      "id": "430300"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Hengyang City",
+      "id": "430400"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Shaoyang City",
+      "id": "430500"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Yueyang City",
+      "id": "430600"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Changde City",
+      "id": "430700"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Zhangjiajie City",
+      "id": "430800"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Yiyang City",
+      "id": "430900"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Chenzhou City",
+      "id": "431000"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Yongzhou City",
+      "id": "431100"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Huaihua City",
+      "id": "431200"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Loudi City",
+      "id": "431300"
+    },
+    {
+      "province": "Hunan Province",
+      "name": "Xiangxi Tujia and Miao Autonomous Prefecture",
+      "id": "433100"
+    }
+  ],
+  "440000": [
+    {
+      "province": "Guangdong Province",
+      "name": "Guangzhou City",
+      "id": "440100"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Shaoguan City",
+      "id": "440200"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Shenzhen City",
+      "id": "440300"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Zhuhai City",
+      "id": "440400"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Shantou City",
+      "id": "440500"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Foshan City",
+      "id": "440600"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Jiangmen City",
+      "id": "440700"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Zhanjiang City",
+      "id": "440800"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Maoming City",
+      "id": "440900"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Zhaoqing City",
+      "id": "441200"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Huizhou City",
+      "id": "441300"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Meizhou City",
+      "id": "441400"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Shanwei City",
+      "id": "441500"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Heyuan City",
+      "id": "441600"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Yangjiang City",
+      "id": "441700"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Qingyuan City",
+      "id": "441800"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Dongguan City",
+      "id": "441900"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Zhongshan City",
+      "id": "442000"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Chaozhou City",
+      "id": "445100"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Jieyang City",
+      "id": "445200"
+    },
+    {
+      "province": "Guangdong Province",
+      "name": "Yunfu City",
+      "id": "445300"
+    }
+  ],
+
+  "450000": [
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Nanning City",
+      "id": "450100"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Liuzhou City",
+      "id": "450200"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Guilin City",
+      "id": "450300"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Wuzhou City",
+      "id": "450400"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Beihai City",
+      "id": "450500"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Fangchenggang City",
+      "id": "450600"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Qinzhou City",
+      "id": "450700"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Guigang City",
+      "id": "450800"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Yulin City",
+      "id": "450900"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Baise City",
+      "id": "451000"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Hezhou City",
+      "id": "451100"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Hechi City",
+      "id": "451200"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Laibin City",
+      "id": "451300"
+    },
+    {
+      "province": "Guangxi Zhuang Autonomous Region",
+      "name": "Chongzuo City",
+      "id": "451400"
+    }
+  ],
+  "460000": [
+    {
+      "province": "Hainan Province",
+      "name": "Haikou City",
+      "id": "460100"
+    },
+    {
+      "province": "Hainan Province",
+      "name": "Sanya City",
+      "id": "460200"
+    },
+    {
+      "province": "Hainan Province",
+      "name": "Sansha City",
+      "id": "460300"
+    },
+    {
+      "province": "Hainan Province",
+      "name": "Danzhou City",
+      "id": "460400"
+    },
+    {
+      "province": "Hainan Province",
+      "name": "Directly Governed County-level Divisions",
+      "id": "469000"
+    }
+  ],
+  "500000": [
+    {
+      "province": "Chongqing",
+      "name": "Urban Area",
+      "id": "500100"
+    },
+    {
+      "province": "Chongqing",
+      "name": "County",
+      "id": "500200"
+    }
+  ],
+  "510000": [
+    {
+      "province": "Sichuan Province",
+      "name": "Chengdu City",
+      "id": "510100"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Zigong City",
+      "id": "510300"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Panzhihua City",
+      "id": "510400"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Luzhou City",
+      "id": "510500"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Deyang City",
+      "id": "510600"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Mianyang City",
+      "id": "510700"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Guangyuan City",
+      "id": "510800"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Suining City",
+      "id": "510900"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Neijiang City",
+      "id": "511000"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Leshan City",
+      "id": "511100"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Nanchong City",
+      "id": "511300"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Meishan City",
+      "id": "511400"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Yibin City",
+      "id": "511500"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Guang'an City",
+      "id": "511600"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Dazhou City",
+      "id": "511700"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Ya'an City",
+      "id": "511800"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Bazhong City",
+      "id": "511900"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Ziyang City",
+      "id": "512000"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Aba Tibetan Qiang Autonomous Prefecture",
+      "id": "513200"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Garze Tibetan Autonomous Prefecture",
+      "id": "513300"
+    },
+    {
+      "province": "Sichuan Province",
+      "name": "Liangshan Yi Autonomous Prefecture",
+      "id": "513400"
+    }
+  ],
+  "520000": [
+    {
+      "province": "Guizhou Province",
+      "name": "Guiyang City",
+      "id": "520100"
+    },
+    {
+      "province": "Guizhou Province",
+      "name": "Liupanshui City",
+      "id": "520200"
+    },
+    {
+      "province": "Guizhou Province",
+      "name": "Zunyi City",
+      "id": "520300"
+    },
+    {
+      "province": "Guizhou Province",
+      "name": "Anshun City",
+      "id": "520400"
+    },
+    {
+      "province": "Guizhou Province",
+      "name": "Bijie City",
+      "id": "520500"
+    },
+    {
+      "province": "Guizhou Province",
+      "name": "Tongren City",
+      "id": "520600"
+    },
+    {
+      "province": "Guizhou Province",
+      "name": "Qianxinan Buyei and Miao Autonomous Prefecture",
+      "id": "522300"
+    },
+    {
+      "province": "Guizhou Province",
+      "name": "Qiandongnan Miao and Dong Autonomous Prefecture",
+      "id": "522600"
+    },
+    {
+      "province": "Guizhou Province",
+      "name": "Qiannan Buyei and Miao Autonomous Prefecture",
+      "id": "522700"
+    }
+  ],
+  "530000": [
+    {
+      "province": "Yunnan Province",
+      "name": "Kunming City",
+      "id": "530100"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Qujing City",
+      "id": "530300"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Yuxi City",
+      "id": "530400"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Baoshan City",
+      "id": "530500"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Zhaotong City",
+      "id": "530600"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Lijiang City",
+      "id": "530700"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Puer City",
+      "id": "530800"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Lincang City",
+      "id": "530900"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Chuxiong Yi Autonomous Prefecture",
+      "id": "532300"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Honghe Hani and Yi Autonomous Prefecture",
+      "id": "532500"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Wenshan Zhuang and Miao Autonomous Prefecture",
+      "id": "532600"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Xishuangbanna Dai Autonomous Prefecture",
+      "id": "532800"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Dali Bai Autonomous Prefecture",
+      "id": "532900"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Dehong Dai and Jingpo Autonomous Prefecture",
+      "id": "533100"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Nujiang Lisu Autonomous Prefecture",
+      "id": "533300"
+    },
+    {
+      "province": "Yunnan Province",
+      "name": "Diqing Tibetan Autonomous Prefecture",
+      "id": "533400"
+    }
+  ],
+  "540000": [
+    {
+      "province": "Tibet Autonomous Region",
+      "name": "Lhasa City",
+      "id": "540100"
+    },
+    {
+      "province": "Tibet Autonomous Region",
+      "name": "Shigatse City",
+      "id": "540200"
+    },
+    {
+      "province": "Tibet Autonomous Region",
+      "name": "Chamdo City",
+      "id": "540300"
+    },
+    {
+      "province": "Tibet Autonomous Region",
+      "name": "Nyingchi City",
+      "id": "540400"
+    },
+    {
+      "province": "Tibet Autonomous Region",
+      "name": "Shannan City",
+      "id": "540500"
+    },
+    {
+      "province": "Tibet Autonomous Region",
+      "name": "Nagqu Region",
+      "id": "542400"
+    },
+    {
+      "province": "Tibet Autonomous Region",
+      "name": "Ngari Region",
+      "id": "542500"
+    }
+  ],
+
+  "610000": [
+    {
+      "province": "Shaanxi Province",
+      "name": "Xi'an City",
+      "id": "610100"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Tongchuan City",
+      "id": "610200"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Baoji City",
+      "id": "610300"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Xianyang City",
+      "id": "610400"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Weinan City",
+      "id": "610500"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Yan'an City",
+      "id": "610600"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Hanzhong City",
+      "id": "610700"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Yulin City",
+      "id": "610800"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Ankang City",
+      "id": "610900"
+    },
+    {
+      "province": "Shaanxi Province",
+      "name": "Shangluo City",
+      "id": "611000"
+    }
+  ],
+  "620000": [
+    {
+      "province": "Gansu Province",
+      "name": "Lanzhou City",
+      "id": "620100"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Jiayuguan City",
+      "id": "620200"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Jinchang City",
+      "id": "620300"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Baiyin City",
+      "id": "620400"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Tianshui City",
+      "id": "620500"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Wuwei City",
+      "id": "620600"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Zhangye City",
+      "id": "620700"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Pingliang City",
+      "id": "620800"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Jiuquan City",
+      "id": "620900"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Qingyang City",
+      "id": "621000"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Dingxi City",
+      "id": "621100"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Longnan City",
+      "id": "621200"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Linxia Hui Autonomous Prefecture",
+      "id": "622900"
+    },
+    {
+      "province": "Gansu Province",
+      "name": "Gannan Tibetan Autonomous Prefecture",
+      "id": "623000"
+    }
+  ],
+  "630000": [
+    {
+      "province": "Qinghai Province",
+      "name": "Xining City",
+      "id": "630100"
+    },
+    {
+      "province": "Qinghai Province",
+      "name": "Haidong City",
+      "id": "630200"
+    },
+    {
+      "province": "Qinghai Province",
+      "name": "Haibei Tibetan Autonomous Prefecture",
+      "id": "632200"
+    },
+    {
+      "province": "Qinghai Province",
+      "name": "Huangnan Tibetan Autonomous Prefecture",
+      "id": "632300"
+    },
+    {
+      "province": "Qinghai Province",
+      "name": "Hainan Tibetan Autonomous Prefecture",
+      "id": "632500"
+    },
+    {
+      "province": "Qinghai Province",
+      "name": "Golog Tibetan Autonomous Prefecture",
+      "id": "632600"
+    },
+    {
+      "province": "Qinghai Province",
+      "name": "Yushu Tibetan Autonomous Prefecture",
+      "id": "632700"
+    },
+    {
+      "province": "Qinghai Province",
+      "name": "Haixi Mongolian Tibetan Autonomous Prefecture",
+      "id": "632800"
+    }
+  ],
+  "640000": [
+    {
+      "province": "Ningxia Hui Autonomous Region",
+      "name": "Yinchuan City",
+      "id": "640100"
+    },
+    {
+      "province": "Ningxia Hui Autonomous Region",
+      "name": "Shizuishan City",
+      "id": "640200"
+    },
+    {
+      "province": "Ningxia Hui Autonomous Region",
+      "name": "Wuzhong City",
+      "id": "640300"
+    },
+    {
+      "province": "Ningxia Hui Autonomous Region",
+      "name": "Guyuan City",
+      "id": "640400"
+    },
+    {
+      "province": "Ningxia Hui Autonomous Region",
+      "name": "Zhongwei City",
+      "id": "640500"
+    }
+  ],
+  "650000": [
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Urumqi City",
+      "id": "650100"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Karamay City",
+      "id": "650200"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Turpan City",
+      "id": "650400"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Hami City",
+      "id": "650500"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Changji Hui Autonomous Prefecture",
+      "id": "652300"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Bortala Mongolian Autonomous Prefecture",
+      "id": "652700"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Bayingol Mongolian Autonomous Prefecture",
+      "id": "652800"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Aksu Region",
+      "id": "652900"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Kizilsu Kirgiz Autonomous Prefecture",
+      "id": "653000"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Kashgar Region",
+      "id": "653100"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Hotan Region",
+      "id": "653200"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Ili Kazakh Autonomous Prefecture",
+      "id": "654000"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Tacheng Prefecture",
+      "id": "654200"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Altay Prefecture",
+      "id": "654300"
+    },
+    {
+      "province": "Xinjiang Uygur Autonomous Region",
+      "name": "Autonomous Region Directly Under the Central Government",
+      "id": "659000"
+    }
+  ]
+}
